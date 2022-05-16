@@ -1,0 +1,63 @@
+p{
+color:blue;
+}
+#nosaukums  {
+font-weight:bolder;
+font-style:normal;
+text-align: center;
+}
+#specialramis{
+width: auto;
+margin: auto;
+display: grid;
+grid-template-columns: 40% 60%;
+padding: 5px;
+}
+.kreisaisramis {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding: 20px;
+background-color: rgb(86, 131, 133);
+image-orientation:flip;
+shape-image-threshold: inherit;
+}
+.labaisramis { 
+font-family: 'Trebuchet MS';
+padding: 20px;
+background-color: rgb(130, 200, 204);
+}
+.tumsizilsvirsraksts {
+font-weight: bold;
+text-align: center;
+font-style: oblique;
+color: rgb(27, 16, 53);
+}
+.tumsizils {
+font-weight: lighter;
+text-align: left;
+font-style: oblique;
+color: rgb(27, 16, 53);
+}
+.tumsipeleksvirsraksts {
+text-align: center;
+font-weight: bold;
+font-style: oblique;
+color: rgb(43, 43, 44);
+}
+.tumsipeleks {
+font-weight: lighter;
+font-style: oblique;
+color: rgb(43, 43, 44);
+}
+.ol {
+text-align: left;
+padding: 0px; 
+margin: 0px;
+list-style: none;
+}
+.ul {
+text-align: left;
+text-align: left;
+padding: 0px; 
+margin: 0px;
+list-style: none;  
+}
